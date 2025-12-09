@@ -1,5 +1,4 @@
-console.log("Hello World")
-var unusedVar;
+console.log('Hello World');
 function myFunc() {
-  return "test"
+  return 'test';
 }
